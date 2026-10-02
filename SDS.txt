@@ -99,4 +99,22 @@ Car
 +getDetails()
 
 
-The first class we introduce is "User" which will manage the users of the software, including both employees and customers.
+Description of classes: Tigist
+Description of attributes: Tigist 
+Description of operations: Tigist
+
+
+Title page: Christopher
+Software title: Christopher
+Team members:Christopher
+System Description: Christopher
+Brief overview of system: Christopher
+
+Software Architecture Overview
+Architectural diagram of all major components: Michelle
+UML Class Diagram: Kevin 
+* descriptions should be detailed and specify datatypes, function interfaces, parameters, etc..
+Development plan and timeline : Light 
+Partitioning of tasks : Light
+Team member responsibilities: Light
+
