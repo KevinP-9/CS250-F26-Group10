@@ -13,6 +13,9 @@ Employees will also be able to access the system in order to look up customers. 
 _________
 
 //I will not provide diagrams in this txt file, that is for draw.io laterrr
+
+Draw.io Link: https://app.diagrams.net/#G19e51yzsFNC_z4m2CNPwaeXaSnQhsyaKe#%7B%22pageId%22%3A%22ZAw--jhMjNN2JYXbIm8K%22%7D
+
 //Although I do want to roughly line out what components may be included in a given diagram.
 
 Architectural diagram
