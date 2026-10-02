@@ -1,4 +1,4 @@
-//This is a rough draft .txt file that we can port into a google doc or whatever.
+//This is a rough draft .txt file that we can port into a google doc or whatever. Or edit directly idc
 
 Car Rental System
 Chris E, Kevin P, Tigist T, Michelle V, Light O
