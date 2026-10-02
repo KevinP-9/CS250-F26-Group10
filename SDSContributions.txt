@@ -2,5 +2,6 @@ Team Member Contributions to submitted Software Design Specifications pdf.
 
 Kevin Plascencia Silva: UML Diagram
 Michelle Villalpando: Architectural Diagram Review
-Light: partitioning of tasks.
+Light: partitioning of tasks
 Tigist Tebeka: Descriptions 
+Christopher Espinosa: Summary
